@@ -5,4 +5,4 @@
 
 <img src="screenshots/attendance.gif" alt="app" width="240px" height="480px">
 
-<img src="appscreenshots/shot1.jpg" alt="app" width="240px" height="480px"> <img src="appscreenshots/shot2.jpg" alt="app" width="240px" height="480px"> <img src="appscreenshots/shot3.jpg" alt="app" width="240px" height="480px">
+<img src="screenshots/shot1.jpg" alt="app" width="240px" height="480px"> <img src="screenshots/shot2.jpg" alt="app" width="240px" height="480px"> <img src="screenshots/shot3.jpg" alt="app" width="240px" height="480px">
